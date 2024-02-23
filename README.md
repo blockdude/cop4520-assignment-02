@@ -75,8 +75,8 @@ This should generate a two binary files named "parta" and "partb".
 
 To run the program use:
 
-> ./parta
-> ./partb
+> ./parta  
+> ./partb  
 
 Or if you are using Make:
 

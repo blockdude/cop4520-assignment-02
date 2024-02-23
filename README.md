@@ -51,13 +51,13 @@ To compile you will need GCC and optionally Make.
 To compile using GCC navigate to directory where the source file
 is then run the command:
 
-> gcc parta.cpp -lstdc++ -lm -o parta
-> gcc partb.cpp -lstdc++ -lm -o partb
+> gcc parta.cpp -lstdc++ -lm -o parta  
+> gcc partb.cpp -lstdc++ -lm -o partb  
 
 Or 
 
-> g++ parta.cpp -o parta
-> g++ partb.cpp -o partb
+> g++ parta.cpp -o parta  
+> g++ partb.cpp -o partb  
 
 This should generate a binary file named "main".
 
